@@ -6,13 +6,13 @@ export const chapitre3 = `
   </header>
 
   <section aria-labelledby="intro-ch3">
-    <p>Pour déterminer le taux d'une déficience auditive, il doit être tenu compte non seulement de la perte auditive tonale, qui correspond à la déficience de la perception acoustique, mais aussi des répercussions de cette déficience auditive sur le langage (notamment dans les surdités installées avant l'acquisition du langage) et sur la qualité de l'expression orale. Il est donc nécessaire d'établir une notation différente pour chacune de ces deux fonctions : l'audition (<a href="/chapitres/chapitre-3">chapitre III</a>) et le langage (<a href="/chapitres/chapitre-4">chapitre IV</a>), qui ne peuvent être confondues dans un barème unique mais qui s'additionnent arithmétiquement.</p>
+    <p>Pour déterminer le taux d'une déficience auditive, il doit être tenu compte non seulement de la perte auditive tonale, qui correspond à la déficience de la perception acoustique, mais aussi des répercussions de cette déficience auditive sur le langage (notamment dans les surdités installées avant l'acquisition du langage) et sur la qualité de l'expression orale. Il est donc nécessaire d'établir une notation différente pour chacune de ces deux fonctions : l'audition et le langage (<a href="/chapitres/chapitre-4">chapitre IV</a>), qui ne peuvent être confondues dans un barème unique mais qui s'additionnent arithmétiquement.</p>
     
     <p>La mesure de la déficience auditive est faite sans appareillage.</p>
     
     <p>Le niveau acoustique relatif des deux oreilles est important dans la réception des signaux. Le tableau ci-joint à double entrée en tient compte.</p>
     
-    <p>Le calcul de la perte moyenne en décibels s'effectue en décibels selon les recommandations du Bureau international d'audiophonologie. Il prend pour base l'audiogramme tonal à 500, 1 000, 2 000 et 4 000 Hz.</p>
+    <p>Le calcul de la perte moyenne en décibels s'effectue en décibels selon les recommandations du Bureau international d'audiophonologie. Il prend pour base l'audiogramme tonal à 500, 1&nbsp;000, 2&nbsp;000 et 4&nbsp;000 Hz.</p>
     
     <figure>
       <figcaption>Formule de calcul de la perte moyenne</figcaption>
