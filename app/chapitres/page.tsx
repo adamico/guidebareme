@@ -1,7 +1,6 @@
 import { introduction } from "../content/introduction";
+import HighlightedContent from "../components/HighlightedContent";
 
 export default function Home() {
-  return (
-    <div dangerouslySetInnerHTML={{ __html: introduction }} />
-  );
+  return <HighlightedContent html={introduction} />;
 }

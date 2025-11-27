@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
+import Search from "./Search";
 
 const chapters = [
   { href: "/chapitres", label: "Introduction" },
@@ -24,6 +25,7 @@ export default function Sidebar() {
         <h2 className="mb-4 text-lg font-bold text-gray-900">
           Guide-Barème
         </h2>
+        <Search />
         <ul className="space-y-1">
           {chapters.map((chapter) => {
             const isActive = pathname === chapter.href;
