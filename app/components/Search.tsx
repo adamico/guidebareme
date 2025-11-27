@@ -82,7 +82,7 @@ export default function Search() {
           onChange={(e) => handleSearch(e.target.value)}
           onFocus={() => query.length >= 2 && setIsOpen(true)}
           placeholder="Rechercher… (Ctrl+K)"
-          className="w-full rounded-md border border-gray-300 bg-white px-3 py-2 pl-9 text-sm placeholder-gray-500 focus:border-blue-500 focus:outline-none focus:ring-1 focus:ring-blue-500"
+          className="w-full rounded-md border border-gray-300 bg-white px-3 py-2 pl-9 text-sm text-gray-900 placeholder-gray-500 focus:border-blue-500 focus:outline-none focus:ring-1 focus:ring-blue-500"
           aria-label="Rechercher dans le guide"
           aria-expanded={isOpen}
           aria-controls="search-results"
