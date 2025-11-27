@@ -1,0 +1,76 @@
+export const chapitre4 = `
+<h2 id="chapitre-4">CHAPITRE IV</h2>
+<h3>DÉFICIENCES DU LANGAGE ET DE LA PAROLE</h3>
+<p>L'appréciation peut être délicate et fera l'objet, en tant que de besoin, d'un bilan portant sur le langage oral et/ ou écrit.</p>
+<p>I - DÉFICIENCES ACQUISES DU LANGAGE ET DE LA PAROLE (EN TANT QU'OUTIL DE COMMUNICATION) CHEZ L'ENFANT, CHEZ L'ADULTE APRÈS L'ACQUISITION DE L'ÉCRITURE ET DE LA LECTURE</p>
+<p>Le praticien compétent décrira la pathologie du langage oral et la pathologie du langage écrit. L'appréciation de la déficience portera sur le caractère informatif du langage et la spontanéité du discours lors de conversations et d'épreuves diverses (dénomination, désignation, répétition, narration, construction de phrase, copie, dictée, lecture...).</p>
+<p>1 - DÉFICIENCE LÉGÈRE DU LANGAGE ET DE LA PAROLE (TAUX : 0 À 15 P. 100)</p>
+<p>Les symptômes sont peu gênants, l'examen est normal ou subnormal. Exemples :</p>
+<p>dysorthographie et/ ou dyslexie résiduelle et/ ou dyscalculie, dysarthrie mineure, retard simple du langage.</p>
+<p>2 - DÉFICIENCE MOYENNE DU LANGAGE ET DE LA PAROLE ENTRAVANT LA COMMUNICATION MAIS PERMETTANT LE MAINTIEN DE L'AUTONOMIE DANS LA VIE QUOTIDIENNE (TAUX : 20 À 45 P. 100)</p>
+<p>Exemples : troubles de la mélodie, de la prosodie et des gestes accompagnant l'expression orale : 5 à 20 p. 100 ; association à des troubles du calcul et de la syntaxe : 10 à 40 p. 100.</p>
+<p>3 - DÉFICIENCE IMPORTANTE DU LANGAGE ET DE LA PAROLE (TAUX : 50 À 75 P. 100)</p>
+<p>Les troubles de l'expression orale et/ou écrite, sont importants avec conservation relative de la compréhension.</p>
+<p>Exemples :</p>
+<p>- dysarthries neurologiques : ces dysarthries, bien que n'atteignant que l'expression du langage, sans en altérer le contenu, peuvent rendre la parole parfois très difficilement compréhensible ;</p>
+<p>- langage réduit à des stéréotypies ; séquelles d'anarthrie sévère.</p>
+<p>4 - DÉFICIENCE SÉVÈRE DU LANGAGE ET DE LA PAROLE (TAUX : 80 À 95 P. 100)</p>
+<p>Les troubles de l'expression orale et/ ou écrite sont sévères la rendant incompréhensible ou absente avec conservation limitée ou nulle de la compréhension.</p>
+<p>Exemples :</p>
+<p>- aphasie globale ;</p>
+<p>- déficits sensoriels spécifiques retentissant sur le langage écrit et/ ou oral (surdité corticale, alexie pure) ;</p>
+<p>- en cas d'aphasie sévère et globale le taux est de 95 p. 100.</p>
+<p>II - TROUBLES DU LANGAGE ET DE LA PAROLE CONGÉNITAUX OU ACQUIS AVANT OU PENDANT L'ACQUISITION DE L'ÉCRITURE ET DE LA LECTURE</p>
+<p>On jugera la gravité sur la spontanéité, le caractère informatif du langage par des épreuves diverses explorant la phonologie, la compréhension et l'expression orale et/ ou écrite, la rétention, le vocabulaire, la lecture, l'orthographe, la dénomination, la désignation, la répétition, la narration d'histoires connues.</p>
+<p>1 - DÉFICIENCE LÉGÈRE</p>
+<p>Des déficiences telles qu'une dysarthrie mineure sans autre trouble neurologique ou un retard simple du langage seront appréciées à un taux inférieur à 15 p. 100.</p>
+<p>2 - DÉFICIENCE MOYENNE (TAUX : 20 À 45 P. 100)</p>
+<p>Déficiences du langage écrit ou oral perturbant notablement les apprentissages notamment scolaires mais pas la socialisation.</p>
+<p>Exemples :</p>
+<p>- alexie, dyslexie, dysorthographie, acalculie, dyscalculie entraînant une thérapeutique régulière (d'autant plus efficace que plus précoce) ;</p>
+<p>- réduction et imprécision du stock lexical sans perturbation du langage conversationnel ;</p>
+<p>- dyscalculie isolée ou associée à des troubles globaux des stratégies avec efficience intellectuelle normale : conséquences comparables à celles des dyslexies ;</p>
+<p>- apraxie verbale.</p>
+<p>3 - DÉFICIENCE IMPORTANTE (TAUX : 50 À 75 P. 100)</p>
+<p>Troubles importants de l'acquisition du langage oral et écrit perturbant notablement les apprentissages et retentissant sur la socialisation.</p>
+<p>4 - DÉFICIENCE SÉVÈRE (TAUX : 80 À 95 P. 100)</p>
+<p>Troubles sévères et définitifs de l'acquisition du langage oral et écrit rendant celui-ci incompréhensible ou absent.</p>
+<p>III - DÉFICIENCES VOCALES</p>
+<p>Elles comprennent les laryngectomies.</p>
+<p>Nota. - Pour les troubles du comportement ou de la personnalité à expression vocale voir le chapitre Déficience de psychisme.</p>
+<p>On tiendra compte dans tous les cas de l'intelligibilité de la voix produite, de la possibilité de la conversation en petit groupe et de la possibilité d'une conversation téléphonique.</p>
+<p>1 - COMMUNICATION POUVANT ENTRAÎNER UNE GÊNE DANS LA VIE RELATIONNELLE TELLE QUE (TAUX : 10 À 40 P. 100)</p>
+<p>troubles qualitatifs de l'émission vocale, touchant de manière isolée ou associée :</p>
+<p>- hauteur ;</p>
+<p>- timbre ;</p>
+<p>- intensité, quelle que soit la cause (congénitale, malformative, traumatique, tumorale...), y compris les paralysies laryngées.</p>
+<p>Troubles du débit de l'émission :</p>
+<p>- bégaiement ;</p>
+<p>- troubles mécaniques, ventilatoires ou paralytiques (par exemple trachéotomie chronique).</p>
+<p>Déficiences vocales d'origine oropharyngée :</p>
+<p>- d'origine vélaire, rhinolalies notamment fentes et paralysies vélaires ;</p>
+<p>- d'origine linguale, notamment paralytique ;</p>
+<p>- d'origine malformative ;</p>
+<p>- après traumatismes maxillo-faciaux.</p>
+<p>2 - ABSENCE DE VOIX (TAUX : 50 À 75 P. 100)</p>
+<p>La commission appréciera le caractère définitif et/ ou permanent de l'absence de voix.</p>
+<p>Exemples :</p>
+<p>- absence de larynx fonctionnel, possibilité de compensation par rééducation, aides vocales ;</p>
+<p>- laryngectomie totale entraînant des troubles sévères de la communication ;</p>
+<p>- laryngectomie partielle et/ ou totale avec implantation d'une prothèse interne ;</p>
+<p>- laryngectomie reconstructive.</p>
+<p>Comme pour les autres déficiences on prendra également en compte les retentissements de la maladie causale et de ses traitements (par exemple conséquences respiratoires, circulatoires, sensorielles et psychiques).</p>
+<p>IV - CONSÉQUENCES D'UNE DÉFICIENCE AUDITIVE CONGÉNITALE OU ACQUISE</p>
+<p>Les données du barème du niveau de parole et de langage traduisent une difficulté sociale de relation linguistique dans la langue maternelle. Les conséquences vocales seront appréciées par rapport à une personne entendante et non par rapport à une personne sourde même correctement rééduquée. Elles feront l'objet d'un bilan de parole ou de langage par un phoniatre ou un orthophoniste. Si les difficultés d'élocution et le retard de langage sont la conséquence de la déficience auditive, on fixera le taux d'incapacité selon quatre paliers 0,5,10 et 15 p. 100 définis ainsi que suit et on ajoutera arithmétiquement ce taux à celui résultant de l'application du barème du niveau acoustique d'audition (cf. chapitre II).</p>
+<p>0 p. 100. Elocution normale : niveau de langage normal.</p>
+<p>5 p. 100. Niveau de langage normal :</p>
+<p>- difficultés d'élocution relevant des aspects suivants :</p>
+<p>- perturbation du débit et du rythme, difficultés mélodiques et d'intonation ;</p>
+<p>- troubles d'articulation liés à la surdité ;</p>
+<p>- troubles de la voix : anomalie de la hauteur, du timbre, de l'intensité, voix nasonnée.</p>
+<p>10 p. 100. Difficultés d'élocution, comme le groupe précédent.</p>
+<p>Retard de parole et/ ou langage avec notamment :</p>
+<p>- chute de la fin des mots et difficultés de prononciation des groupes consonantiques, mots déformés ;</p>
+<p>- emploi peu fréquent des mots grammaticaux (articles, adverbes, conjonctions...), temps des verbes incorrects.</p>
+<p>15 p. 100. Difficultés majeures d'élocution, troubles importants du langage ou absence d'expression acoustique de la parole, au mieux parole intelligible seulement pour la famille ou les professionnels de la rééducation.</p>
+`;
