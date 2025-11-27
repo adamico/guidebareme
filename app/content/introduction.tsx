@@ -3,17 +3,8 @@ export const introduction = `
   <h1 style="text-align:center">GUIDE-BARÈME POUR L'ÉVALUATION DES DÉFICIENCES ET INCAPACITÉS DES PERSONNES HANDICAPÉES</h1>
   <h2>Introduction générale au guide-barème</h2>
 </header>
-<nav aria-label="Table des matières" class="toc" style="margin:2em 0;">
-  <h2>Table des matières</h2>
-  <ol>
-    <li><a href="/chapitre-1">Déficiences intellectuelles et difficultés de comportement</a></li>
-    <li><a href="/chapitre-2">Déficiences du psychisme</a></li>
-    <li><a href="/chapitre-3">Déficiences de l'audition</a></li>
-    <li><a href="/chapitre-4">Déficiences du langage et de la parole</a></li>
-    <li><a href="/chapitre-5">Déficiences de la vision</a></li>
-    <li><a href="/chapitre-6">Déficiences viscérales et générales</a></li>
-    <li><a href="/chapitre-7">Déficiences de l'appareil locomoteur</a></li>
-    <li><a href="/chapitre-8">Déficiences esthétiques</a></li>
-  </ol>
-</nav>
+
+<p>Ce guide-barème a pour objet de permettre l'évaluation des déficiences et incapacités des personnes handicapées. Il est utilisé pour la détermination du taux d'incapacité, en application de la loi n° 2005-102 du 11 février 2005 pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées.</p>
+
+<p>Utilisez le menu de navigation à gauche pour accéder aux différents chapitres.</p>
 `;

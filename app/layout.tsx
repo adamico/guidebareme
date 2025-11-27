@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Next.js Static Site",
-  description: "Migrated content",
+  title: "Guide-Barème - Évaluation des Déficiences et Incapacités",
+  description: "Guide-barème pour l'évaluation des déficiences et incapacités des personnes handicapées",
 };
 
 export default function RootLayout({
@@ -15,7 +15,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="fr">
       <body className={inter.className}>
         {children}
       </body>
